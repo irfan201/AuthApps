@@ -1,4 +1,4 @@
-# Nama Aplikasi
+# Auth Apps
 
 Deskripsi singkat aplikasi atau tujuan utama aplikasi Anda.
 
@@ -6,7 +6,6 @@ Deskripsi singkat aplikasi atau tujuan utama aplikasi Anda.
 
 - **Fitur 1:** Login untuk masuk halaman utama dan akses list user
 - **Fitur 2:** List User yang terdaftar
-- ...
 
 ## Teknologi dan Library
 
