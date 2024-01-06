@@ -14,3 +14,4 @@ Deskripsi singkat aplikasi atau tujuan utama aplikasi Anda.
 - **ViewModel dan LiveData:** Komponen arsitektur Android untuk mengelola dan memantau data UI terkait siklus hidup.
 - **SharedPreferences:** Digunakan untuk menyimpan data sederhana seperti status login.
 - **RecyclerView:** Digunakan untuk menampilkan daftar item dalam antarmuka pengguna.
+- **Glide:** Digunakan untuk menampilkan gambar user.
